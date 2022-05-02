@@ -17,6 +17,3 @@ FROM bitnami/kubeapps-kubeops:2.4.4-scratch-r2
 
 # Tags: 2.4.4-scratch-r1
 FROM bitnami/kubeapps-kubeops:2.4.4-scratch-r1
-
-# Tags: 2.4.4-scratch-r0
-FROM bitnami/kubeapps-kubeops:2.4.4-scratch-r0
